@@ -83,6 +83,9 @@ export default function genDiff(path1, path2, format = 'stylish') {
   const obj1 = parse(text1, format1);
   const obj2 = parse(text2, format2);
 
+  console.log('obj1:', obj1);
+  console.log('obj2:', obj2);
+
   if (format !== 'stylish') {
     throw new Error(`Такой формат пока не умею: ${format}`);
   }
