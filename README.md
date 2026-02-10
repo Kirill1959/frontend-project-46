@@ -10,3 +10,12 @@ CLI-утилита для сравнения двух конфигурацион
 ## Демонстрация работы
 
 [![asciinema](https://asciinema.org/a/FsM2LsL222TvmCuQ.svg)](https://asciinema.org/a/FsM2LsL222TvmCuQ)
+
+### Пример с вложенными структурами
+
+### Демонстрация работы
+
+[![asciinema](https://asciinema.org/a/HLlkOYI9HL4wmLUZ.svg)](https://asciinema.org/a/HLlkOYI9HL4wmLUZ)
+
+```bash
+gendiff __fixtures__/file1.json __fixtures__/file2.json
