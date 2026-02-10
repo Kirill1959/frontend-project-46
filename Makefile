@@ -1,4 +1,16 @@
+install: install-deps
+
+install-deps:
+	npm ci
+
+publish:
+	npm publish --dry-run
+
 lint:
 	npx eslint .
 
-.PHONY: lint
+test:
+	npm test
+
+test-coverage:
+	npm test -- --coverage --coverageProvider=v8

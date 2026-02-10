@@ -1,0 +1,10 @@
+{"version": 2, "width": 153, "height": 13, "timestamp": 1770749089, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.412062, "o", "\u001b[?2004h\u001b[0;32m@Kirill1959 \u001b[0m➜ \u001b[1;34m/workspaces/frontend-project-46 \u001b[0;36m(\u001b[1;31mmain\u001b[0;36m) \u001b[0m$ "]
+[2.030459, "o", "\u001b[7mgendiff __fixtures__/file1.yml __fixtures__/file2.yml\u001b[27m"]
+[3.989553, "o", "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\bgendiff __fixtures__/file1.yml __fixtures__/file2.yml\r\n"]
+[3.989644, "o", "\u001b[?2004l\r"]
+[4.099946, "o", "{\r\n    common: {\r\n      + follow: false\r\n          setting1: Value 1\r\n      - setting2: 200\r\n      - setting3: true\r\n      + setting3: [complex value]\r\n      + setting4: blah blah\r\n      + setting5: [complex value]\r\n"]
+[4.100134, "o", "        setting6: {\r\n            doge: {\r\n              - wow: too much\r\n              + wow: so much\r\n            }\r\n              key: value\r\n          + ops: vops\r\n        }\r\n    }\r\n    group1: {\r\n      - baz: bas\r\n      + baz: bars\r\n          foo: bar\r\n      - nest: [complex value]\r\n      + nest: str\r\n    }\r\n  - group2: [complex value]\r\n  + group3: [complex value]\r\n  - groupwithArray: [complex value]\r\n}\r\n"]
+[4.119287, "o", "\u001b[?2004h\u001b[0;32m@Kirill1959 \u001b[0m➜ \u001b[1;34m/workspaces/frontend-project-46 \u001b[0;36m(\u001b[1;31mmain\u001b[0;36m) \u001b[0m$ "]
+[9.431979, "o", "\u001b[?2004l\r\r\n"]
+[9.432248, "o", "exit\r\n"]

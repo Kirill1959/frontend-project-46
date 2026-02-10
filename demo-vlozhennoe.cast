@@ -1,0 +1,9 @@
+{"version": 2, "width": 153, "height": 13, "timestamp": 1770745868, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.599679, "o", "\u001b[?2004h\u001b[0;32m@Kirill1959 \u001b[0m➜ \u001b[1;34m/workspaces/frontend-project-46 \u001b[0;36m(\u001b[1;31mmain\u001b[0;36m) \u001b[0m$ "]
+[2.552071, "o", "\u001b[7mgendiff __fixtures__/file1.json __fixtures__/file2.json\u001b[27m"]
+[4.682994, "o", "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\bgendiff __fixtures__/file1.json __fixtures__/file2.json\r\n\u001b[?2004l\r"]
+[4.84496, "o", "{\r\n    common: {\r\n      + follow: false\r\n          setting1: Value 1\r\n      - setting2: 200\r\n      - setting3: true\r\n      + setting3: [complex value]\r\n      + setting4: blah blah\r\n      + setting5: [complex value]\r\n        setting6: {\r\n            doge: {\r\n              - wow: too much\r\n              + wow: so much\r\n            }\r\n              key: value\r\n          + ops: vops\r\n        }\r\n    }\r\n    group1: {\r\n      - baz: bas\r\n      + baz: bars\r\n          foo: bar\r\n      - nest: [complex value]\r\n      + nest: str\r\n    }\r\n  - group2: [complex value]\r\n  + group3: [complex value]\r\n  - groupwithArray: [complex value]\r\n}\r\n"]
+[4.876632, "o", "\u001b[?2004h"]
+[4.877162, "o", "\u001b[0;32m@Kirill1959 \u001b[0m➜ \u001b[1;34m/workspaces/frontend-project-46 \u001b[0;36m(\u001b[1;31mmain\u001b[0;36m) \u001b[0m$ "]
+[9.598151, "o", "\u001b[?2004l\r"]
+[9.599465, "o", "\r\nexit\r\n"]
